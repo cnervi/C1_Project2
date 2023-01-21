@@ -1,13 +1,13 @@
 # C1_Project2
-You work at a company that receives daily data files from external partners. These files need to be processed and analyzed, but first, they need to be transferred to the company's internal network.
+    You work at a company that receives daily data files from external partners. These files need to be processed and analyzed, but first, they need to be transferred to the company's internal network.
 
 
 
-The goal of this project is to automate the process of transferring the files from an external FTP server to the company's internal network.
+    The goal of this project is to automate the process of transferring the files from an external FTP server to the company's internal network.
 
 
 
-Here are the steps you can take to automate this process:
+    Here are the steps you can take to automate this process:
 
 
 
